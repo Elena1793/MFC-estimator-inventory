@@ -1,0 +1,6 @@
+rootProject.name = 'mfc-estimator-inventory'
+include 'estimator'
+include 'inventory'
+include 'web-MFC'
+include 'tests-voxme'
+
